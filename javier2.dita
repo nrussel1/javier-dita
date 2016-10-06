@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_onc_2vg_nx">
+    <title>How to Change Brita Filter</title>
+    <shortdesc>Change the filter in a Brita pitcher.</shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>Brita pitcher</li>
+                <li>Replacement Brita filter</li>
+                <li>Faucet</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Javier needs to take care himself, and part of that involves making sure he has fresh, purified water.
+            </p>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Take out old, used filter from Brita pitcher and throw away</cmd>
+            </step>
+            <step>
+                <cmd>Remove replacement filter from package</cmd>
+            </step>
+            <step>
+                <cmd>Rinse filter under running water for 15 seconds to release the essential components inside that will eventually filter water</cmd>
+            </step>
+            <step>
+                <cmd>Insert filter into grooves of pitcher</cmd>
+            </step>
+            <step>
+                <cmd>Toss out water from next three pitchers-full of water</cmd>
+                <info>
+                <note type="danger">These first three pitchers will contain carbon and other particles from packaging, so do not drink this water.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

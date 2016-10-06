@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qmh_xbh_nx">
+    <title>How to Find a Decent Vacuum to Purchase Online</title>
+    <shortdesc>Find a decent vacuum online to purchase for residential area.</shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>Computer</li>
+                <li>Credit card (or related, accepted online payment)</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Javier wants to take care of himself better than he already is, so buying a vacuum
+                will help keep his residential area clean and homework-friendly.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to Amazon's website</cmd>
+            </step>
+            <step>
+                <cmd>In the search bar, type in "vacuum"</cmd>
+                <info>Condense this into whatever details needed in the kind of vacuum
+                    desired</info>
+            </step>
+            <step>
+                <cmd>Click "Add to cart" in the upper right hand corner of the vacuum desired</cmd>
+            </step>
+            <step>
+                <cmd>Choose delivery method and supply delivery details</cmd>
+            </step>
+            <step>
+                <cmd>Enter payment information</cmd>
+            </step>
+            <step>
+                <cmd>Submit order!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

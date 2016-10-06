@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gzm_mjw_mx">
+    <title>How to Make a Tomato Omelette</title>
+    <shortdesc>Make a healthy omelette for breakfast.</shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>Two eggs</li>
+                <li>Half cup of diced tomatoes</li>
+                <li>Olive oil (Canola would also work)</li>
+                <li>Frying pan</li>
+                <li>Bowl</li>
+                <li>Whisk</li>
+                <li>Spatula</li>
+                <li>Stovetop</li>
+                <li>Salt and pepper to season (optional)</li>
+            </ul>
+        </prereq>
+        
+        <context>
+            <p>Javier needs to take care of himself, and part of that is making his own meals.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn on stovetop and place frying pan on the burner</cmd>
+            </step>
+             <step>
+                <cmd>Crack eggs against side of the bowl, making sure not to get any shell particles inside</cmd>
+            </step>
+            <step>
+                <cmd>Whisk the eggs in the bowl</cmd>
+            </step>
+            <step>
+                <cmd>Pour a small amount of oil into the pan</cmd>
+            </step>
+            <step>
+                <cmd>Pour mixed eggs into the pan. You will hear the pan sizzle – this is a good thing.</cmd>
+            </step>
+            <step>
+                <cmd>Add in diced tomatoes</cmd>
+                <info>Optional: Add salt and pepper</info>
+            </step>
+            <step>
+                <cmd>Flip omelette over using spatula after two minutes</cmd>
+            </step>
+            <step>
+                <cmd>Make sure eggs are cooked and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
