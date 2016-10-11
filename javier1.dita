@@ -46,6 +46,7 @@
             </step>
             <step>
                 <cmd>Make sure eggs are cooked and enjoy!</cmd>
+                <info>It should look similar to this: <image href="omelette.jpg" placement="break"><alt>Image of a tomato omelette</alt></image></info>
             </step>
         </steps>
     </taskbody>

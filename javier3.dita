@@ -17,6 +17,7 @@
         <steps>
             <step>
                 <cmd>Go to Amazon's website</cmd>
+                <info>Their logo will look like this: <image href="amazon.png"></image></info>
             </step>
             <step>
                 <cmd>In the search bar, type in "vacuum"</cmd>
